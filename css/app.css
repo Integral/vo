@@ -48,6 +48,9 @@ h1 {
 	font-weight: 400;
 	text-align: center;
 }
+blockquote p {
+	font-weight: 400;
+}
 .btn-custom {
   background-color: hsl(0, 0%, 90%) !important;
   background-repeat: repeat-x;
